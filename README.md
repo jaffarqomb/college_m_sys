@@ -127,7 +127,7 @@ npm run build
 npm run dev
 
 # Create a database snapshot using the configured backup disk
-php artisan college:backup-database
+php artisan college:backup
 ```
 
 ## Application structure
