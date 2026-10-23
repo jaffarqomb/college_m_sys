@@ -32,6 +32,8 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+/.ai
+/.codex
 /.agents
 /.amp
 /.claude
@@ -47,3 +49,5 @@ yarn-error.log
 /boost.json
 /opencode.json
 /opencode.jsonc
+/.github/skills
+/.github/extensions
